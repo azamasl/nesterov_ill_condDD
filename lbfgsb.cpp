@@ -1,3 +1,4 @@
+// modified by Azam Asl to convret to double-double precision
 #include "lbfgsb.h"
 static integer c__1 = 1;
 using std::cout;

@@ -1,3 +1,4 @@
+// modified by Azam Asl to convret to double-double precision
 #include "lbfgsb.h"
 using std::cout;
 using std::endl;

@@ -1,3 +1,6 @@
+// modified by Azam Asl to convret to double-double precision
+
+
 /* Downloaded from http://www.netlib.org/clapack/cblas/
  * This is a merger of the 4 following cblas files:
  *   daxpy.c  dcopy.c  ddot.c  dscal.c
